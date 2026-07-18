@@ -1,6 +1,6 @@
 public class calc{
 	public static void main(String[] args){
-		int a=20;
+		int a=22;
 		int b=10;
 		System.out.println("a is "+a+", b is "+b);
 		System.out.println("The Sum is:"+(a+b));
